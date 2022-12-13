@@ -1,5 +1,4 @@
 name: ci1stlab
-descrption: testing for ci1st lab
 on: push
 
 jobs:
